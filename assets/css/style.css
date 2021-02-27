@@ -113,7 +113,7 @@ h3 {
 
 .image2 {
     width: 35%;
-    padding: 50px;
+    padding: 20px;
     display: inline;
     flex-direction: row;
     flex-wrap: wrap;
@@ -123,7 +123,7 @@ h3 {
 
 .image3 {
     width: 35%;
-    padding: 50px;
+    padding: 20px;
     display: inline;
     flex-direction: row;
     flex-wrap: wrap;
