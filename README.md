@@ -2,7 +2,8 @@
 Second Assignment
 
 ## HTML
--I created this from the ground up using semantic HTML tags and personal work links + images
+- I created this from the ground up using semantic HTML tags and personal work links + images
+- I inserted a personal image of mine as a placeholder to be replaced with future projects
 
 ### CSS
--I styled my page the best I could! Very diffuclt for me and defintely a work in progress but I believe it all works accordingly
+- I styled my page the best I could! Very dificult for me and defintely a work in progress but I believe it all works accordingly
