@@ -11,4 +11,4 @@ Second Assignment
 #### Screenshot
 
 
-[!Screenshot]C:\Users\lynds\Pictures\screenshot02.png
+[!Screenshot]/Users/lynds/Pictures/screenshot02.png
