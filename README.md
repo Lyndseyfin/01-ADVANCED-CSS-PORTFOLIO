@@ -7,3 +7,8 @@ Second Assignment
 
 ### CSS
 - I styled my page the best I could! Very dificult for me and defintely a work in progress but I believe it all works accordingly
+
+#### Screenshot
+
+
+[!Screenshot]C:\Users\lynds\Pictures\screenshot02.png
