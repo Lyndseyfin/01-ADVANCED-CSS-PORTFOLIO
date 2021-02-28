@@ -5,4 +5,4 @@ Second Assignment
 -I created this from the ground up using semantic HTML tags and personal work links + images
 
 ### CSS
--I styled my page the best I could! Very diffuclt for me and defintely a work in progress but I belive it all works accordingly
+-I styled my page the best I could! Very diffuclt for me and defintely a work in progress but I believe it all works accordingly
