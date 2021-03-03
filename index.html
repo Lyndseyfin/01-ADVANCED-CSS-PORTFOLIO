@@ -5,59 +5,74 @@
     <link rel="stylesheet" href="./assets/css/style.css">
     <title>Lyndsey Finamore</title>
 </head>
+<!-- // added about me -->
 
 <body>
     <header>
         <h1>LF</h1>
         <nav>
             <ul>
-                <li><a href="#My-Work">My Work</a></li>
+                <li><a href="#About-me">About Me</a></li>
+                <li><a href="#Projects">Projects</a></li>
                 <li><a href="#contact-links">Contact Me</a></li>
             </ul>
         </nav>
     </header>
 
+    <!-- //added a div class "content" to add more specificity -->
     <Main>
-        <section id = "about-me">
-            <img
-                src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-9/97425845_10215604946412234_6989242706467749888_n.jpg?_nc_cat=105&ccb=3&_nc_sid=174925&_nc_ohc=-zstJ8lw5iwAX-CY7Vq&_nc_ht=scontent.fapa1-2.fna&oh=2304ab87c4b9dd308ebc2ecfe97e5d8f&oe=605AAE26" class="image1">
-            <alt="me">
-                <div class="content">
-                    <h2>Hey! I'm Lyndsey. Nice to meet you.</h2>
-                    <p>Current student in a full flex stack program, aspiring front end web developer. I live in Denver, CO with my amazing husband, beautiful baby girl
-                        and incredibly lazy dog. </p>
-                </div>
-        </section>
-
-
         <section>
-            <div class="work">
-                <p id="My-Work"></p>
-                <h3>My Work</h3>
-                <p>(WORK IN PROGRESS)</p>
+            <div class="About-me" id="About-me">
+                <h2>About Me</h2>
+                <section>
+                    <img src="https://scontent.fapa1-2.fna.fbcdn.net/v/t1.0-9/97425845_10215604946412234_6989242706467749888_n.jpg?_nc_cat=105&ccb=3&_nc_sid=174925&_nc_ohc=-zstJ8lw5iwAX-CY7Vq&_nc_ht=scontent.fapa1-2.fna&oh=2304ab87c4b9dd308ebc2ecfe97e5d8f&oe=605AAE26"
+                        class="image1">
+                    <alt="me">
+                        <div class="content">
+                            <h2>Hey! I'm Lyndsey. Nice to meet you.</h2>
+                            <p>Current student in a full flex stack program, aspiring front end web developer. I
+                                live in
+                                Denver,
+                                CO with my amazing husband, beautiful baby girl
+                                and incredibly lazy dog. </p>
+                        </div>
+                </section>
 
-                <img src="https://raw.githubusercontent.com/Lyndseyfin/01-HTML-CSS-AND-GIT-CODE-REFACTOR/main/assets/screencapture-lyndseyfin-github-io-01-HTML-CSS-AND-GIT-CODE-REFACTOR-2021-02-21-09_58_36.png" class="image2">
-                <span><a href="https://github.com/Lyndseyfin/01-HTML-CSS-AND-GIT-CODE-REFACTOR/blob/main/assets/screencapture-lyndseyfin-github-io-01-HTML-CSS-AND-GIT-CODE-REFACTOR-2021-02-21-09_58_36.png" class="link1">Refractor</a></span>
-               <img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t31.0-8/11705564_10103324813334323_1591546217350048025_o.jpg?_nc_cat=106&ccb=3&_nc_sid=a9b1d2&_nc_ohc=sDHrwGlyh4AAX8Umjmp&_nc_ht=scontent.fapa1-1.fna&oh=626732386c3b957d0d9e96ff4527ef90&oe=605FEBC4" class="image2">
-               <p>^^PLACEHOLDER^^ COMING SOON...</p>
+<!-- //added personal image as a placeholder -->
+                <section>
+                    <nav>
+                        <div class="Projects" id="Projects">
+                            <h3>Projects</h3>
+                            <p>(WORK IN PROGRESS)</p>
+
+                            <img src="https://raw.githubusercontent.com/Lyndseyfin/01-HTML-CSS-AND-GIT-CODE-REFACTOR/main/assets/screencapture-lyndseyfin-github-io-01-HTML-CSS-AND-GIT-CODE-REFACTOR-2021-02-21-09_58_36.png"
+                                class="image2">
+                            <span><a href="file:///C:/Users/lynds/code/homework/01-HTML-CSS-AND-GIT-CODE-REFACTOR/index.html"
+                                    class="link1">Refractor</a></span>
+                            <img src="https://scontent.fapa1-1.fna.fbcdn.net/v/t31.0-8/11705564_10103324813334323_1591546217350048025_o.jpg?_nc_cat=106&ccb=3&_nc_sid=a9b1d2&_nc_ohc=sDHrwGlyh4AAX8Umjmp&_nc_ht=scontent.fapa1-1.fna&oh=626732386c3b957d0d9e96ff4527ef90&oe=605FEBC4"
+                                class="image2">
+                            <p>^^PLACEHOLDER^^ COMING SOON...</p>
+                    </nav>
             </div>
         </section>
-
+<!-- //created a list to display horizontally -->
         <section>
-            <div class="contact" id ="contact-links">
+            <div class="contact">
                 <h4>Let's Connect</h4>
-                <nav>
-                    <p> P: 720-201-5989 Email: lyndseyfinamore@gmail.com
-                    </p>
-                </nav>
+                <ul>
+                    <li><u>P: 720-201-5989</u></li>
+                    <li><u>E: lyndseyfinamore@gmail.com</u></li>
+                    <li><u><a href="https://www.facebook.com/lyndsey.finamore">Facebook</a></u></li>
+                    <li><u><a href="https://www.linkedin.com/in/lyndsey-finamore-516279136/">Linkedin</a></u></li>
+                </ul>
             </div>
         </section>
 
     </main>
 
-        <div class="footer">
-            <p>&#9829; &copy; 2021 &#9829;</p>
-        </div>
+    <div class="footer">
+        <p> &copy; 2021 &#9829;</p>
+    </div>
 
 </body>
 

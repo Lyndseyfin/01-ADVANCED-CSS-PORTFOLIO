@@ -4,13 +4,6 @@
     margin: 0;
 }
 
-#about-me{
-    
-
-}
-.content{
-
-}
 body {
     background-color: white;
     flex-direction: column;
@@ -63,13 +56,19 @@ p {
     font-size: 16px;
 }
 
+
+.About-me {
+    margin-top: 50px;
+    text-align: left;
+}
+
 .content {
     display: block;
     width: 750px;
     padding: 70px;
     border: 11px solid maroon;
     margin: 70px;
-    text-align: center;
+    text-align: left;
 }
 
 .image1{
@@ -81,7 +80,7 @@ p {
 }
 
 h2 {
-    text-align: center;
+    text-align: left;
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
     color:black;
@@ -103,7 +102,7 @@ h3 {
     
 }
 
-.work{
+.projects nav {
     height: 640px;
     display: inline;
     flex-direction: row;
@@ -136,16 +135,16 @@ h4 {
     color:black
 }
 
-.contact{
-    display: absolute;
-    height: 100px
-
+.contact {
+    height: 100px;
 }
-.contact nav p { 
-    justify-content: space-evenly;
-    font-size: 16px;
-    color:maroon;
-    position: absolute;
+
+.contact ul li { 
+    display: inline;
+    font-size: 18px;
+    color:maroon; 
+    padding-left: 150px;
+    margin: 25 25 25px 25;
 }
 
 
