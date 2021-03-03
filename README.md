@@ -11,4 +11,6 @@ Second Assignment
 #### Screenshot
 - Could not capture screenshot without footer in the middle for the life of me
 
-![Screenshot](assets/screencapture-lyndseyfin-github-io-02-ADVANCED-CSS-PORTFOLIO-2021-02-28-14_36_54.png)
+![Screenshot]
+(assets/screencapture-lyndseyfin-github-io-02-ADVANCED-CSS-PORTFOLIO-2021-02-28-14_36_54.png)
+
