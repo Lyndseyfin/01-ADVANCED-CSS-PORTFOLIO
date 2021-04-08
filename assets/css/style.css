@@ -5,9 +5,9 @@
 }
 
 body {
-    background-color: white;
     flex-direction: column;
     height: 150vh;
+    background: url("https://i.pinimg.com/736x/44/0c/03/440c0347ef0a3d03f10e7dba5da12b7b.jpg"); 
 }
 
 header {
@@ -15,6 +15,7 @@ header {
     font-family:'Courier New', Courier, monospace;
     background-color: lightcyan;
     color: black;
+    background: url("https://i.pinimg.com/originals/22/3d/f1/223df15db915620d5cdd73b27f105764.png");
 }
 
 header h1 {
@@ -151,10 +152,13 @@ h4 {
 .footer {
     position: fixed;
     bottom: 0px;
-    background-color:lightcyan;
+    /* background-color:lightcyan; */
     text-align: center;
     padding: 10px;
     width: 100%;
+    background: url("https://i.pinimg.com/originals/22/3d/f1/223df15db915620d5cdd73b27f105764.png");
+
+    /* background: url("https://i.pinimg.com/originals/e1/bb/e9/e1bbe94c4fd1d6cf20b5726acc5c16e6.jpg"); */
 
 }
 
