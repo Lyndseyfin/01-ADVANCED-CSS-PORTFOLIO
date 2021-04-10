@@ -13,9 +13,9 @@ body {
 header {
     padding: 20px;
     font-family:'Courier New', Courier, monospace;
-    background-color: lightcyan;
     color: black;
     background: url("https://i.pinimg.com/originals/22/3d/f1/223df15db915620d5cdd73b27f105764.png");
+    text-align: left;
 }
 
 header h1 {
@@ -70,7 +70,7 @@ p {
     border: 11px solid maroon;
     margin: 70px;
     text-align: left;
-}
+    display: block;
 
 .image1{
     border-radius: 50%;
@@ -94,19 +94,29 @@ p {
     font-size: 15px;  
 }
 
+aside {
+    padding: 24px 15px;
+    text-align: right;
+    border: 10px solid maroon;
+    font-weight: bold;
+    float: right;
+    margin-left: 5%;
+    width: 35%;
+}
+
 h3 {
     display: grid;
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
     color:black;
     font-weight: bold;
-    
+    text-align: left;
 }
 
 .projects nav {
     height: 640px;
     display: inline;
-    flex-direction: row;
+    /* flex-direction: row; */
     flex-wrap: wrap;
 }
 
