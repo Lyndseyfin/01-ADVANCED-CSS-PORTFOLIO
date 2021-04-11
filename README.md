@@ -4,13 +4,13 @@ Second Assignment
 ## HTML + CSS
 - I created this from the ground up using semantic HTML tags and personal work links + images
 - More projects will be added as they are completed
-- I styled this using help from downloaded backgrounds 
+- I styled this with CSS and downloaded background images 
 
 ### Link to deployed application
 <a href="https://lyndseyfin.github.io/02-LYNDSEY-FINAMORE-PORTFOLIO/">Lyndsey Finamore Portfolio</a>
 
 #### Screenshot
-![screenshot](assets/screencapture-file-C-Users-lynds-code-homework-02-ADVANCED-CSS-PORTFOLIO-index-html-2021-03-03-09_39_53.png)
+![screenshot](assets/screencapture-file-C-Users-lynds-code-homework-02-ADVANCED-CSS-PORTFOLIO-index-html-2021-04-11-08_42_32.png)
 ![screenshot]()
 
 ##### License 
