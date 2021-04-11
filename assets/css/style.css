@@ -15,7 +15,6 @@ header {
     font-family:'Courier New', Courier, monospace;
     color: black;
     background: url("https://i.pinimg.com/originals/22/3d/f1/223df15db915620d5cdd73b27f105764.png");
-    text-align: left;
 }
 
 header h1 {
@@ -39,9 +38,9 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
-    font-size: 22px;
+    font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
-    font-weight: bold;
+    font-weight: bolder;
     }
  
 nav a:hover {
@@ -60,22 +59,22 @@ p {
 
 .About-me {
     margin-top: 50px;
-    text-align: left;
+    text-align: center;
 }
 
 .content {
     display: block;
     width: 750px;
     padding: 70px;
-    border: 11px solid maroon;
+    border: 7px solid maroon;
     margin: 70px;
-    text-align: left;
-    display: block;
+    text-align: center;
+}
 
 .image1{
     border-radius: 50%;
     float: left;
-    width: 219px;
+    width: 250px;
     margin-left: auto;
     display: flex;
 }
@@ -94,15 +93,15 @@ p {
     font-size: 15px;  
 }
 
-aside {
-    padding: 24px 15px;
-    text-align: right;
-    border: 10px solid maroon;
+/* .projects {
+    text-align: center;
+    border: 0px solid maroon;
     font-weight: bold;
-    float: right;
+    float: center;
     margin-left: 5%;
     width: 35%;
-}
+    flex-direction:row;
+} */
 
 h3 {
     display: grid;
@@ -113,11 +112,15 @@ h3 {
     text-align: left;
 }
 
-.projects nav {
+.projects {
     height: 640px;
-    display: inline;
-    /* flex-direction: row; */
+    flex-direction: column;
     flex-wrap: wrap;
+    border: 8px solid beige;
+    text-align: center;
+    float: center;
+    margin: 10%;
+    width: 75%;
 }
 
 

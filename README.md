@@ -10,9 +10,8 @@ Second Assignment
 <a href="https://lyndseyfin.github.io/02-LYNDSEY-FINAMORE-PORTFOLIO/">Lyndsey Finamore Portfolio</a>
 
 #### Screenshot
-- Could not capture screenshot without footer in the middle for the life of me
-
 ![screenshot](assets/screencapture-file-C-Users-lynds-code-homework-02-ADVANCED-CSS-PORTFOLIO-index-html-2021-03-03-09_39_53.png)
+![screenshot]()
 
 ##### License 
 
