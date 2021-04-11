@@ -11,7 +11,6 @@ Second Assignment
 
 #### Screenshot
 ![screenshot](assets/screencapture-file-C-Users-lynds-code-homework-02-ADVANCED-CSS-PORTFOLIO-index-html-2021-04-11-08_42_32.png)
-![screenshot]()
 
 ##### License 
 
