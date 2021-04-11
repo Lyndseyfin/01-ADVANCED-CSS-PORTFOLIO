@@ -10,7 +10,7 @@ Second Assignment
 <a href="https://lyndseyfin.github.io/02-LYNDSEY-FINAMORE-PORTFOLIO/">Lyndsey Finamore Portfolio</a>
 
 #### Screenshot
-![screenshot](assets/screencapture-file-C-Users-lynds-code-homework-02-ADVANCED-CSS-PORTFOLIO-index-html-2021-04-11-08_42_32.png)
+![screenshot](assets/02.png)
 
 ##### License 
 
